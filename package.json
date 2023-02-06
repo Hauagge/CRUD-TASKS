@@ -1,0 +1,13 @@
+{
+  "name": "CRUD-TASKS",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hauagge/CRUD-TASKS.git",
+  "author": "Hauagge <gabriel.dev@agroflux.ind.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {}
+}

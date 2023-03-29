@@ -7,7 +7,9 @@
   "author": "Hauagge <gabriel.dev@agroflux.ind.br>",
   "license": "MIT",
   "scripts": {
-    "dev": "node --watch src/server.js"
+    "dev": "node  src/server.js"
   },
-  "dependencies": {}
+  "dependencies": {
+    "csv-parse": "^5.3.5"
+  }
 }
